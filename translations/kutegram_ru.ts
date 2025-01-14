@@ -6,12 +6,12 @@
     <message>
         <location filename="../historywindow.ui" line="14"/>
         <source>Kutegram</source>
-        <translation></translation>
+        <translation>Telegram</translation>
     </message>
     <message>
         <location filename="../historywindow.ui" line="39"/>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../historyitemdelegate.cpp" line="81"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../logintypedialog.ui" line="14"/>
         <source>Log in</source>
-        <translation>Авторизация</translation>
+        <translation>Вход</translation>
     </message>
     <message>
         <location filename="../logintypedialog.ui" line="24"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../mainwindow.ui" line="69"/>
         <source>Log in</source>
-        <translation>Авторизоваться</translation>
+        <translation>Войти</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="74"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../mainwindow.ui" line="87"/>
         <source>About Kutegram</source>
-        <translation>О Kutegram</translation>
+        <translation>О QTgram</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="95"/>
@@ -97,12 +97,14 @@
 An unofficial Qt-based client for Telegram messenger.
 Project&apos;s website: http://kg.curoviyx.ru
 Telegram channel: https://t.me/kutegram
-Telegram chat: https://t.me/kutegramchat</source>
-        <translation>Kutegram, сделан curoviyxru
-Неофициальный клиент Telegram, основанный на Qt.
+Telegram chat: https://t.me/kutegramchat
+    </source>
+        <translation>Qtgram, сделан curoviyxru
+Клиент Telegram, основанный на Qt.
 Сайт проекта: http://kg.curoviyx.ru
 Канал Telegram: https://t.me/kutegram
-Чат Telegram: https://t.me/kutegramchat</translation>
+Чат Telegram: https://t.me/kutegramchat
+    </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="129"/>
@@ -138,7 +140,7 @@ Telegram chat: https://t.me/kutegramchat</source>
     <message>
         <location filename="../qrlogindialog.ui" line="14"/>
         <source>QR-code login</source>
-        <translation>Авторизация по QR-коду</translation>
+        <translation>Вход по QR-коду</translation>
     </message>
 </context>
 </TS>
