@@ -1,5 +1,5 @@
 TARGET = Kutegram
-VERSION = 0.0.2
+VERSION = 0.0.5
 
 CONFIG(release, debug|release):DEFINES += QT_NO_DEBUG_OUTPUT
 
