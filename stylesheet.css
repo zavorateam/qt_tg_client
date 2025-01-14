@@ -1,7 +1,9 @@
 QScrollBar:vertical {
-    width: 10px;
+    width: 8px;
+    color: CCCCCC;
 }
 
 QScrollBar:horizontal {
-    height: 10px;
+    height: 8px;
+    color: CCCCCC;
 }
