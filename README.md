@@ -1,13 +1,13 @@
-# Kutegram
-## How to build
-### Symbian^1 (also Symbian^3)
-* Clone this repository with submodules.
+# Kutegram (aka QTgram)
+## Как построить
+### Symbian^1 (и Symbian^3)
+* Копируй этот репозиторий вместе с подмодулями.
 ```
 git clone --recursive https://github.com/kutegram/client.git
 cd client
 ```
 * Go to `library` folder, rename `apivalues.default.h` file to `apivalues.h`, and fill needed fields.
-* Run build script.
+* Запусти скрипт сборки.
 ```
 buildSymbian.bat
 ```
